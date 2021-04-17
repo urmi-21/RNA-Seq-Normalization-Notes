@@ -1,2 +1,3 @@
 # RNA-Seq-Normalization-Notes
-My notes on RNA-Seq Normalization methods
+Some notes I compiled on RNA-Seq Normalization and Batch correction methods. 
+Last updated: May 29, 2019
